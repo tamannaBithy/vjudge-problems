@@ -1,1 +1,0 @@
-{"name":"Local: a-counting","url":"c:\\projects\\PHITRON\\vJudge-problems\\week-1\\a-counting.cpp","tests":[{"id":1743852972430,"input":"3 2","output":"0"},{"id":1743853008311,"input":"10 100","output":"91"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\projects\\PHITRON\\vJudge-problems\\week-1\\a-counting.cpp","group":"local","local":true}
